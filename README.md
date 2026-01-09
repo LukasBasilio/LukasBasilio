@@ -2,7 +2,7 @@
 
 **`Estudante da UFES, curso Ciência da Computação`**
 
-Me chamo Lukas Rodrigues Basilio, tenho 21 anos e sou natural de Linhares. Atualmente, estou cursando Ciência da Computação na UFES. Estou em constante aprendizado para aprimorar minhas habilidades e trilhar meu caminho como futuro Desenvolvedor Fullstack.
+Me chamo Lukas Rodrigues Basilio, tenho 22 anos e sou natural de Linhares. Atualmente, estou cursando Ciência da Computação na UFES. Estou em constante aprendizado para aprimorar minhas habilidades e trilhar meu caminho como futuro Desenvolvedor Fullstack.
 
 <p align="left">
     <a href="https://instagram.com/lk.basilio" target="_blank"> 
